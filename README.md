@@ -265,24 +265,6 @@ Interview Preparation:
 - Again, watch podcasts and interview experience shared on YouTube.
 - Read interview questions available on sites like: [LinkedIn](https://tr.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/index.htm).
 
- ## Congratulations!
- Ta ta ta ta congratulations!, you are now a Data Analyst and you can apply for your dream job and company. 🥳🎉
-
- If you've come this far and reviewed or completed all the steps, you can help me by giving this repository a star ⭐.
-
- ## Contact Me 
-
- [![Twitter Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mhmthraslan)
-
- [![Linkedin Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtahiraslan)
-
- [![Github Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20github-blue?style=for-the-badge&logo=github)](https://github.com/mtahiraslan)
-
- ## Contribution Guideline
-
-You can open an issue and give your suggestions as to how I can improve this roadmap, or what I can do to improve the learning experience.
-
-You can also fork this repo and send a pull request to fix any mistakes that you have found.
 
 
 
